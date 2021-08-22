@@ -1,5 +1,5 @@
 # Pattern Recognition Code
-Some Code of PR in my learn trip
+Some Code of PR in my learn trip in SEU
 ## HMM 中文分词
 - 使用人民日报分词语料库来进行相关参数的训练
 ## Naive Bayes
